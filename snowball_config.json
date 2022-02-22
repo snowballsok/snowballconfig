@@ -1,0 +1,65 @@
+{
+	"dc_options_v2": [
+	{
+		"dc_id": 2,
+		"ip_address": "8.134.8.220",
+		"ip_port": 443
+	}
+	],
+	"dc_options_ios_v2": [
+	{
+		"dc_id": 2,
+		"ip_address": "8.134.8.220",
+		"ip_port": 443
+	}
+	],
+	"version_v2": {
+		"android": {
+			"platform": "android",
+			"force": true,
+			"version": "1.0.0",
+			"md5": "d3690f63b1d477f7eeba09b8fdc78ecf",
+			"size": 61595647,
+			"date": "2022-2-17 12:01:00",
+			"download_url": [
+			],
+			"content": [""],
+			"ad_switch": true
+		},
+		"ios": {
+			"platform": "ios",
+			"force": true,
+			"version": "1.0.0",
+			"md5": "",
+			"size": 0,
+			"date": "2021 08-18 17:36:30",
+			"download_url": [
+			],
+			"switch_version_force": false,
+			"content": []
+		},
+		"web": {
+			"platform": "web",
+			"force": false,
+			"version": "",
+			"md5": "",
+			"size": 0,
+			"date": "",
+			"download_url": [],
+			"content": []
+		},
+		"windows": {
+			"platform": "windows",
+			"force": false,
+			"version": "1.0.6",
+			"md5": "048bb15c0848eb935bbc6e0b5f7f8e02",
+			"size": 27522660,
+			"date": "2021-08-20 19-03:16",
+			"download_url": [
+			],
+			"content": []
+		}
+	},
+	"dc_options_speed_time": 900,
+	"dc_options_cnd_time": 1800
+}
